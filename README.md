@@ -7,10 +7,10 @@
       <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong> na Universidade Federal de São Paulo (UNIFESP), agora estou seguindo minha trajetória para <strong>Engenharia de Computação</strong> na Fiap.
     <p align="left">📚 Estou aprendendo:
       <ul>
-        <li>Systems Modeling Language (SysML);</li>
-        <li>Aplicações IoT com ESP32 e Arduino Mega;</li>
-        <li>Eletrônica Aplicada;</li>
-        <li>Front-end para aplicações web.</li>
+        <li>Aplicações IoT;</li>
+        <li>Software Kicad;</li>
+        <li>IA & GenAI;</li>
+        <li>Semicondutores, Diodos, BJTs, FET/MOSFET, AmpOps.</li>
       </ul>
     </p>  
     <!-- Badges de redes sociais -->
